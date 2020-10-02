@@ -11,7 +11,7 @@ go build .
 
 ## Connect : 
 ```bash 
-telnelt localhost 8080
+telnet localhost 8080
 ```
 
 
